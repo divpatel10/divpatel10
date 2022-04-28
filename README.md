@@ -3,7 +3,7 @@
 
 - I'm a Senior Computer Science Student @ Clemson University
 - I'm currently working on [Cosmos Capsule](https://github.com/divpatel10/Cosmos-Capsule), an API that provides various data about NASA's planetary missions. My goal with this project is to make NASA's mission and Budget data accessible to developers
-- I'm always looking to collaberate and contribute to projects! You can reach me on [div@duck.com](div@duck.com)
+- I'm always looking to collaberate and contribute to projects! You can reach me at [div@duck.com](div@duck.com)
 
 ### Languages I know:
 
