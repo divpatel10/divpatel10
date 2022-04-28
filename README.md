@@ -1,4 +1,4 @@
-### ![](/images/name.mov)
+### ![](/files/name.gif)
 #### Welcome to my Github!
 
 - I'm a Senior Computer Science Student @ Clemson University
