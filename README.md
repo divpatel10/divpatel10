@@ -1,5 +1,5 @@
 ### ![](/files/name.gif)
-#### Welcome to my Github!
+### Welcome to my Github!
 
 - I'm a Senior Computer Science Student @ Clemson University
 - I'm currently working on [Cosmos Capsule](https://github.com/divpatel10/Cosmos-Capsule), an API that provides various data about NASA's planetary missions. My goal with this project is to make NASA's mission and Budget data accessible to developers
@@ -15,9 +15,9 @@
 
 ### Technologies I have worked with:
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/azure%20DevOps-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
+![Azure DevOps](https://img.shields.io/badge/azure%20DevOps-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;
 
